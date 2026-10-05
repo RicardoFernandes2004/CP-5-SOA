@@ -12,9 +12,6 @@ API REST desenvolvida com Spring Boot para gerenciamento de uma auto-escola: cad
 |-------------------|----------|
 | Ricardo Fernandes | RM554597 |
 | Khadija Lima      | RM668971 |
-| Isadora Meneghetti           | RM556326 |
-| Henrique Azevedo          | RM556707 |
-| Gustavo Jun       | RM554718 |
 
 ## Tecnologias
 
